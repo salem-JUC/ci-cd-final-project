@@ -46,7 +46,7 @@ spec:
     - name: source
   params:
     - name: args
-      discription: args to pass to nose
+      description: args to pass to nose
       type: string
       default: -v
   steps:
